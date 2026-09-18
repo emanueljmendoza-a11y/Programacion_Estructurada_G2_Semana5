@@ -109,7 +109,7 @@ def main():
             pause_program()
 
         finally:
-            pass
+            print("\n(Operación finalizada)")
 
 
 if __name__ == "__main__":
